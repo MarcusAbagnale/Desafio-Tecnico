@@ -1,0 +1,7 @@
+  .txt_center {
+    text-align: center !important;
+  }
+  .date,
+  .number {
+    padding:7px !important;
+  }
